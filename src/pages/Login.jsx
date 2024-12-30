@@ -50,7 +50,7 @@ const Login = () => {
                   onChange={(e) => setName(e.target.value)}
                 />
                 <label className="form-label" htmlFor="form3Example3">
-                  Name
+                  Name (Özkan test Denem)
                 </label>
               </div>
               <div className="form-outline mb-3">
