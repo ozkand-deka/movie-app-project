@@ -63,7 +63,7 @@ const Login = () => {
                   onChange={(e) => setEmail(e.target.value)}
                 />
                 <label className="form-label" htmlFor="form3Example4">
-                  Email
+                  Email (Özkan test3 deneme)
                 </label>
               </div>
               <div className="d-flex justify-content-between align-items-center">
